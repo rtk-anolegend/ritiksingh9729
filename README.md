@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritiksingh9729
+- 👋 Hi, I’m @rtk_anolegend
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,4 +8,4 @@
 ritiksingh9729/@rtkanolegennd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://ritiksingh9729@github.com
+https://rtk_anolegend@github.com
